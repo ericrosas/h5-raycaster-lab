@@ -2,6 +2,11 @@
 
 A framework and a set of tools aimed at building HTML 5 raycasting based games.
 
+![Screenshot of demo world](http://i.imgur.com/1Ty7c12.png)
+Two-story block support with semi-transparent windows
+
+![Screenshot of mansion demo](http://i.imgur.com/KEV67Ns.png)
+Animated sprites
 
 ## Project structure
 
